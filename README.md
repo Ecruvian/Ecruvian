@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Ecruvian
 - 🌱 I'm trying to develop the basic coding skills I learned as a kid.
-- 💞️ I am a professional writer looking to develop my documentation portfolio!
-- If you need a collaborator, please let me know!
+- 💞️ I am a professional writer who wants to develop a documentation portfolio!
 - 📫 You can reach me at ecruvian@gmail.com
 
 <!---
